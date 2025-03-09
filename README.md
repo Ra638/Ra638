@@ -32,14 +32,13 @@ Let's connect and grow together!
 
 ---
 ## 📂 Featured Projects  
-### 📊 [Nashville Housing Data Cleaning](https://github.com/Ra638/SQL_Datawarehouse_Project))  
-- Cleaned and standardized real estate data using SQL  
-- Removed duplicates, handled missing values, and optimized data for analysis  
-
 ### 🏗️ [Data Warehouse & Analytics](https://github.com/Ra638/DATA-CLEANING-USING-SQL)  
 - Built a **Medallion Architecture** (Bronze, Silver, Gold layers) data warehouse  
-- Designed star schema models for better reporting  
-
+- Designed star schema models for better reporting
+- 
+### 📊 [Nashville Housing Data Cleaning](https://github.com/Ra638/SQL_Datawarehouse_Project)
+- Cleaned and standardized real estate data using SQL  
+- Removed duplicates, handled missing values, and optimized data for analysis  
 ---
 
 ## 📊 GitHub Stats  
