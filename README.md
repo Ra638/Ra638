@@ -1,4 +1,3 @@
-
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Rayan Ahmed!</h1>
 
 <p align="center">
@@ -30,14 +29,21 @@ Let's connect! Feel free to reach out to me on:
 - **Other**: Excel, Data Cleaning, ETL  
 
 ---
+
 ## 📂 Featured Projects  
+
 ### 🏗️ [Data Warehouse & Analytics](https://github.com/Ra638/SQL_Datawarehouse_Project)
 - Built a **Medallion Architecture** (Bronze, Silver, Gold layers) data warehouse  
 - Designed star schema models for better reporting
 
+### 📈 [SQL_DataAnalytics_project](https://github.com/Ra638/SQL_DataAnalytics_project)
+- Performed advanced data analysis using tables created in the Data Warehouse  
+- Tables built after cleaning and creating layers in the warehouse have been used for in-depth SQL analysis
+
 ### 📊 [Nashville Housing Data Cleaning](https://github.com/Ra638/DATA-CLEANING-USING-SQL)
 - Cleaned and standardized real estate data using SQL  
 - Removed duplicates, handled missing values, and optimized data for analysis  
+
 ---
 
 ## 📊 GitHub Stats  
@@ -51,7 +57,7 @@ Let's connect! Feel free to reach out to me on:
 ---
 
 🔥 Always open to collaboration and learning new things!
+
 ---
 
-⭐ **Thanks for visiting my profile!**  
-
+⭐ **Thanks for visiting my profile!**
