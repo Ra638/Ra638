@@ -7,14 +7,12 @@
 
 ---
 
-## 🔗 Connect with Me  
-Let's connect and grow together!  
+## ☕ Stay Connected  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rayanahmed2002/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Let's connect! Feel free to reach out to me on:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayanahmed2002/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
