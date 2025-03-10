@@ -36,7 +36,7 @@ Let's connect! Feel free to reach out to me on:
 - Built a **Medallion Architecture** (Bronze, Silver, Gold layers) data warehouse  
 - Designed star schema models for better reporting
 
-### 📈 [SQL_DataAnalytics_project](https://github.com/Ra638/SQL_DataAnalytics_project)
+### 📈 [SQL_DataAnalytics_project](https://github.com/Ra638/SQL_Data_Analytics_Project-)
 - Performed advanced data analysis using tables created in the Data Warehouse  
 - Tables built after cleaning and creating layers in the warehouse have been used for in-depth SQL analysis
 
