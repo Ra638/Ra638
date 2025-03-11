@@ -48,11 +48,18 @@ Let's connect! Feel free to reach out to me on:
 
 ## 📊 GitHub Stats  
 
+## 🚀 GitHub Stats & Streaks  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ra638&theme=tokyonight" alt="GitHub Streak" />
+  <!-- 🔥 GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Ra638&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ra638&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+  <!-- 📊 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ra638&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br>
+
+
+
 
 ---
 
