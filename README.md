@@ -58,8 +58,10 @@ An interactive **Tableau dashboard** that provides deep insights into **sales tr
 ### 📌 Dashboard Previews  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5713e5fc-df4f-49a5-838b-a6abe0e5ffbd" alt="Sales Dashboard" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/009dabe7-1647-4d77-9841-21f136f572b6" alt="Customer Dashboard" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/1b3f6806-8530-4599-8bd1-ad749d5b571c"
+" alt="Sales Dashboard" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/a8f39df4-e317-427a-b2e1-775fe26599e7"
+" alt="Customer Dashboard" width="48%"/>
 </p>  
 
 ---
