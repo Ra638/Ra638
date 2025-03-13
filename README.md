@@ -53,7 +53,7 @@
 
 An interactive **Tableau dashboard** that provides deep insights into **sales trends, customer behavior, and regional performance**.  
 
-🔗 **Explore the Live Dashboard:** [Click Here](https://public.tableau.com/app/profile/rayan.ahmed3713/viz/SalesDasboard_17418614778210/SalesDashboard)  
+🔗 **Explore the Live Dashboard:** [Click Here](https://public.tableau.com/app/profile/rayan.ahmed3713/viz/SalesCustomerDashboardsDynamic_17418711916300/SalesDashboard)  
 
 ### 📌 Dashboard Previews  
 
