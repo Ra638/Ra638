@@ -49,6 +49,21 @@
 
 ---
 
+## 📊 HR Analytics Dashboard  
+
+An interactive **Tableau dashboard** providing insights into **workforce demographics, employee performance, and attrition trends**.  
+
+🔗 **Explore the Live Dashboard:** [Click Here](https://public.tableau.com/app/profile/rayan.ahmed3713/viz/HRDashboard_17420521689400/HRDashBoard)  
+
+### 📌 Dashboard Previews  
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/8333295e-ba69-4afb-b668-84e5e0121463" alt="HR Attrition Trends" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/a2cbddda-c67d-4c17-a17d-4e46f91c31ea" alt="HR Dashboard Overview" width="48%"/>
+</p>  
+
+---
+
 ## 📊 Sales & Customer Interactive Dashboard  
 
 An interactive **Tableau dashboard** that provides deep insights into **sales trends, customer behavior, and regional performance**.  
@@ -58,10 +73,8 @@ An interactive **Tableau dashboard** that provides deep insights into **sales tr
 ### 📌 Dashboard Previews  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b3f6806-8530-4599-8bd1-ad749d5b571c"
-" alt="Sales Dashboard" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/a8f39df4-e317-427a-b2e1-775fe26599e7"
-" alt="Customer Dashboard" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/1b3f6806-8530-4599-8bd1-ad749d5b571c" alt="Sales Dashboard" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/a8f39df4-e317-427a-b2e1-775fe26599e7" alt="Customer Dashboard" width="48%"/>
 </p>  
 
 ---
