@@ -1,5 +1,5 @@
 <div align="center">
-  <h4><em>"🌟GIVE ME DATA, I WILL GIVE YOU INSIGHTS"</em></h4>
+  <h4><em>"GIVE ME DATA, I WILL GIVE YOU INSIGHTS"</em></h4>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Analytics GIF"/>
 
   <h1>Hi, I'm Rayan Ahmed</h1>
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" title="Tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40"/>
@@ -49,18 +49,21 @@
 
 ### 🚀 Featured Projects
 
-#### 🏗️ [Data Warehouse & Analytics](https://github.com/Ra638/SQL_Datawarehouse_Project)
+<p align="center">
+  <em>Real-world case studies using SQL, Python, and predictive modeling</em>
+</p>
+
+#### 🏗️ <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/null/external-data-warehouse-data-science-flatart-icons-flat-flatarticons.png" width="24"/> [Data Warehouse & Analytics](https://github.com/Ra638/SQL_Datawarehouse_Project) ![SQL](https://img.shields.io/badge/SQL-DataWarehouse-blue?style=flat-square&logo=mysql&logoColor=white)
 - Built a **Medallion Architecture** (Bronze, Silver, Gold layers) data warehouse
 - Designed **Star Schema Models** for scalable reporting
 
-#### 📈 [SQL Data Analytics Project](https://github.com/Ra638/SQL_Data_Analytics_Project-)
+#### 📈 <img src="https://img.icons8.com/fluency/48/null/sql.png" width="24"/> [SQL Data Analytics Project](https://github.com/Ra638/SQL_Data_Analytics_Project-) ![SQL](https://img.shields.io/badge/SQL-Analytics-blueviolet?style=flat-square&logo=sqlite&logoColor=white)
 - Conducted advanced analysis on structured data
 - Created powerful **SQL queries for insights & metrics**
 
-#### 🎬 [Movie Revenue Prediction](https://github.com/Ra638/Movie_Revenue_Prediction-)
+#### 🎬 <img src="https://img.icons8.com/color/48/null/artificial-intelligence.png" width="24"/> [Movie Revenue Prediction](https://github.com/Ra638/Movie_Revenue_Prediction-) ![ML](https://img.shields.io/badge/ML-Prediction-orange?style=flat-square&logo=scikit-learn&logoColor=white)
 - Built machine learning model using Scikit-learn
 - Predicted **movie revenues** using regression techniques
-
 ---
 
 ### 📊 Interactive Dashboards
